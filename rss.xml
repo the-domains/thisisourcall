@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[thisisourcall]]></title>
         <description><![CDATA[thisisourcall]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thisisourcall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 20:17:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 20:18:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thisisourcall/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/thisisourcall/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">6cab8715-65f2-4459-86fe-f3067525c5d1</guid>
+            <pubDate>Wed, 09 Dec 2015 20:17:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://a57.foxnews.com/www.foxnews.com/images/root_images/0/0/farook-1-edit_20151209_141058.jpg">]]></description>
