@@ -1,0 +1,28 @@
+name: thisisourcall
+favicon: null
+layout_spectrum: 0.03636761615052819
+typography_spectrum: 0.5368279227986932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.31209896109066904
+  lightness: 0.9339308075141162
+  saturation: 0.7797314359340817
+  rhythmicContrast: 0.1592628234066069
+purpose: []
